@@ -18,6 +18,7 @@
       "build_entry_point": "op"
     }
   ],
+  "need_preview_pull_request",
   "notification_subscribers": [],
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
